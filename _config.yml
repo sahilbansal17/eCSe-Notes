@@ -1,0 +1,9 @@
+title: eCSe-Notes
+description: >
+  Notes for Semester 6 B.Tech CSE @IIT Jammu
+baseurl: /eCSe-Notes/ # to fix the issue that CSS files linked have relative path
+url: http://sahilbansal17.github.io/eCSe-Notes/
+theme: minima
+# plugins: [jekyll_github_sample]
+markdown:   kramdown
+author: sahilbansal17
