@@ -20,16 +20,16 @@ A relation R **on a set A** is defined as $$ R \subseteq A\times A $$.
 R is a relation on set A; then R is an Equivalence relation, if the following properties hold:
 1. **Reflexive**: $$ (a, a) \in R , \forall a \in A $$
 2. **Symmetric**: $$ (a, b) \in R \Rightarrow (b, a) \in R $$.
-3. **Transitive**: $$ (a, b) \in R and (b, c) \in R \Rightarrow (a, c) \in R $$
+3. **Transitive**: $$ (a, b) \in R \ and \ (b, c) \in R \Rightarrow (a, c) \in R $$
 
 There is a convention to write $$ a \sim b $$ if $$ (a, b) \in R $$ where R is an equivalence relation. It can also be written as $$ aRb $$.
 
 #### Definitions - Equivalence Class
-If $$ \sim $$ is an equivalence relation on a set A and $$ a \in S $$, then the set 
+If $$ \sim $$ is an equivalence relation on a set A and $$ a \in A $$, then the set 
 
 $$ [a] = \left \{ x \in A \mid x \sim a \right \} $$
 
-is called the *equivalence class of S containing a*.
+is called the *equivalence class of $$ \sim $$ containing a*.
 
 Example:
 Let S be the set of all polynomials with real coefficients. If $$ f, g \in S $$, define $$ f \sim g $$ if $$ f' = g' $$, where $$ f' $$ is the derivative of $$ f $$. Then, $$ \sim $$ is an equivalence relation on S. 

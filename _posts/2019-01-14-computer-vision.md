@@ -17,7 +17,7 @@ date: 2019-01-14
 
 - Just by looking at histogram, we can say whether the image is bright or dark.
 
-- The histograms for black & white image and a image with 10-bit pixel can look like:
+- The histograms for black & white image and an image with 10-bit pixel can look like:
 ![BW and 10-bit image hist](/eCSe-Notes/assets/2019-01-14/bw_10-bit.png)
 
 - Out of two given image histograms, how can we say which image is better? The notion of better is defined in terms of visibility. An image using more pixel values would have higher contrast and would be better. 
@@ -50,7 +50,7 @@ $$ y = \frac{x^{2}}{255} $$
 The above transformation is referred as **slicing** and is useful in medical imaging as it can highlight the object of interest as here the pixel values between 100 and 150 are highlighted.
 
 #### Gamma Correction
-Each pixel in a image has brightness level, called luminance. Different camera or video recorder devices do not correctly capture luminance. Different display devices do not display luminance correctly neither. So, one needs to correct them, therefore the gamma correction function.
+Each pixel in an image has brightness level, called luminance. Different camera or video recorder devices do not correctly capture luminance. Different display devices do not display luminance correctly neither. So, one needs to correct them, therefore the gamma correction function.
 The following function is used:
 
 $$ y = 255 * \left ( \frac{x}{255}  \right ) ^{\gamma} $$
