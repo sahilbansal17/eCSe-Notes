@@ -1,6 +1,7 @@
 ---
 title: "CSL780: Computer Vision - Image Histograms"
 date: 2019-01-14
+categories: [CSL780]
 ---
 
 {% include lib/mathjax.html %}

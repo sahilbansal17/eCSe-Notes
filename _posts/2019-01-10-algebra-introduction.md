@@ -1,6 +1,7 @@
 ---
 title: "MTL105: Algebra - Introduction class"
 date: 2019-01-10
+categories: [MTL105]
 ---
 {% include lib/mathjax.html %}
 

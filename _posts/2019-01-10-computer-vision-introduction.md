@@ -1,6 +1,7 @@
 ---
 title: "CSL780: Computer Vision Introduction"
 date: 2019-01-10
+categories: [CSL780]
 ---
 
 {% include lib/mathjax.html %}
