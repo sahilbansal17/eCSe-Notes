@@ -4,4 +4,5 @@ This web page will contain the notes for the following courses:
 - MTL105: Algebra
 - CSL780: Computer Vision
 - CSL331: Operating Systems
-- HUL289: Science and Society (maybe not)
+
+They are arranged in the order of no. of posts (i.e. classes) for each course as following:
