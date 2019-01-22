@@ -82,4 +82,4 @@ We define $$ a \sim b $$ if *a* and *b* belong to the same subset in the collect
 3. What is the remainder when $$ 11^{40} $$ is divided by $$ 8 $$ ?
 4. What is the remainder when $$ 1! + 2! + 3! + ... + n! $$ is divided by 18 ?
 
-The later part covered an introduction to **group theory**. 
+The later part covered an introduction to **group theory** using the symmetries of a square and the *cayley table*.
