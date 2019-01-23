@@ -70,3 +70,5 @@ Then:
 2. $$ a {\color{Red}\circ} e_{2} = e_{2} {\color{Red}\circ} a = a, \ \forall \ a \in G $$
 
 Using $$ a = e_{2} $$ in equation 1, we get $$ e_{2} {\color{Red}\circ} e_{1} = e_{2} $$ and using $$ a = e_{1} $$ in equation 2, we get $$ e_{2} {\color{Red}\circ} e_{1} = e_{1} $$, which means $$ e_{1} $$ and $$ e_{2} $$ are both equal.
+
+Since typing handwritten notes takes a lot of time, directly read handwritten notes for remaining part of this lecture [here](https://drive.google.com/file/d/1Gmeed__yYEq1ohjELFfOLV4PWbGMnQP8/view?usp=sharing). (Pages 1-2)

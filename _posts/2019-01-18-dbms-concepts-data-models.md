@@ -92,4 +92,4 @@ An ER model is expressed via an **ER diagram**. The following terms are to be un
 2. **Entity Type**: It defines a collection of entities that have the same attributes.
 3. **Entity Set**: The collection of all entities of an entity type at a particular point of time is called an entity set.
 
-*Rest of the notes will be completed by midnight.*
+Since typing handwritten notes takes a lot of time, directly read handwritten notes for remaining part of this lecture [here](https://drive.google.com/file/d/14gIELshg8bWgOJboeMQxRikeIdiNvNF9/view?usp=sharing). (Pages 6-11)
