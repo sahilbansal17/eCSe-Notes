@@ -10,8 +10,8 @@
     {% for category in site.categories %}
       {% if category[1].size == i %}
         <li>
-          <a href="#{{ category[0] | slugify }}">
-            <strong>{{ category[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
+          <a href="{{ category[0] | slugify }}/2019/01/24/{{category[0]}}.html" target="_blank">
+            <strong>{{ category[0] }}</strong>
           </a>
         </li>
       {% endif %}
@@ -19,7 +19,7 @@
   {% endfor %}
 </ul>
 
-{% for i in (1..categories_max) reversed %}
+<!-- {% for i in (1..categories_max) reversed %}
   {% for category in site.categories %}
     {% if category[1].size == i %}
       <section id="{{ category[0] | slugify | downcase }}" class="taxonomy__section">
@@ -33,4 +33,4 @@
       </section>
     {% endif %}
   {% endfor %}
-{% endfor %}
+{% endfor %} -->

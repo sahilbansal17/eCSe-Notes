@@ -6,4 +6,4 @@ This web page will contain the notes for the following courses:
 - CSL331: Operating Systems
 - HUL289: Science and Society
 
-They are arranged in the order of no. of posts (i.e. classes) for each course as following:
+Click on the respective course links to read the notes:
